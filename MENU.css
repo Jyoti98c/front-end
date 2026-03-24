@@ -1,0 +1,30 @@
+header
+{
+   background-image: url(MENU.jpg); 
+   background-size: 1000px 1000px;
+   background-position: right;
+}
+.menu {
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .menu h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .menu ul {
+    list-style: none;
+  }
+  
+  .menu ul li {
+    margin-top: 10px;
+  }
+  
+  .menu ul li h3 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  
